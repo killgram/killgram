@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Roman Dashko</h1>
+<h1 align="center">👋 Hello there</h1>
 <br>
 <div align="center">
   <a href="https://github.com/killgram">
