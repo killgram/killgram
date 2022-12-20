@@ -15,6 +15,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/killgram">
-  <img style="margin-right: 1rem;" src="https://visitcount.itsvg.in/api?id=killgram&label=Profile Views&color=10&icon=0&pretty=false"/>
+  <img src="https://visitcount.itsvg.in/api?id=killgram&label=Views&color=10&icon=0&pretty=false"/>
   </a>
 </div>
