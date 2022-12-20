@@ -12,3 +12,9 @@
   <img style="margin-right: 1rem;" height="150rem" src="https://github-profile-trophy.vercel.app/?username=killgram&theme=dracula&margin-w=15"/>
   </a>
 </div>
+<br>
+<div align="center">
+  <a href="https://github.com/killgram">
+  <img style="margin-right: 1rem;" src="https://visitcount.itsvg.in/api?id=killgram&label=Profile Views&color=10&icon=0&pretty=false"/>
+  </a>
+</div>
