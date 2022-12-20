@@ -13,7 +13,7 @@
   </a>
 </div>
 <br>
-<div align="center">
+<div align="end" style="margin-top: 0.5rem">
   <a href="https://github.com/killgram">
   <img src="https://visitcount.itsvg.in/api?id=killgram&label=Views&color=10&icon=0&pretty=false"/>
   </a>
